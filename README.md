@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)](https://github.com/subirdev)
 <h1 align="center">Hi 👋, I'm Subir Mondal</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
+<img align="right" width="40%" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirdev&label=Profile%20views&color=0e75b6&style=flat" alt="subirdev" /> </p>
 
